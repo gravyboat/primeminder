@@ -7,7 +7,8 @@ can support the application financially. It also includes
 legal/privacy policy content. This site uses Bootstrap 4, and is 100%
 mobile device compliant. Amazon affiliate links, mailing list URLS, and Amazon
 OneLink items have been removed and will need to be replaced if you want to
-use this application.
+use this application. The HTML uses a heavily modified and stripped down
+version of [Agency](https://startbootstrap.com/template-overviews/agency/).
 
 You can read more about the Primeminder project on my blog
 [here](https://hungryadmin.com/primeminder-post-mortem.html).
