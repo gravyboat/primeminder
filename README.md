@@ -22,11 +22,11 @@ as those are just text)
 
 #### Front Page
 
-![alt text](URL HERE "Front Page")
+![alt text](https://raw.githubusercontent.com/gravyboat/primeminder/master/preview_images/primeminder_sign_up.PNG "Front Page")
 
 #### Support Us Section
 
-![alt text](URL HERE "Support Us")
+![alt text](https://raw.githubusercontent.com/gravyboat/primeminder/master/preview_images/primeminder_support.PNG "Support Us")
 
 How to set up the project
 -------------------------
