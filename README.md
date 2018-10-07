@@ -33,8 +33,8 @@ How to set up the project
 
 This project is a simple static site so set up is easy. You can either clone
 it and set things up yourself, or take a look at my
-[primeminder-salt](https://github.com/gravyboat/primeminder-salt) which uses
-SaltStack to configure and deploy everything.
+[primeminder-salt](https://github.com/gravyboat/primeminder-salt) repo which
+uses SaltStack to configure and deploy everything.
 
 If you just want to check the application out, clone the repo and then from
 main project directory run:
