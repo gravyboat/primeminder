@@ -37,6 +37,9 @@ it and set things up yourself, or take a look at my
 SaltStack to configure and deploy everything.
 
 If you just want to check the application out, clone the repo and then from
-main project directory run `python -m SimpleHTTPServer 8000` and the
-application should be available on `localhost:8000` depending on your local
-configuration.
+main project directory run:
+
+`python -m SimpleHTTPServer 8000`
+
+and the application should be available on `localhost:8000` depending on your
+local configuration.
