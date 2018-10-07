@@ -1,10 +1,10 @@
 Primeminder
 ===========
 
-Primeminderis designd as a very simple statit HTML one page application
+Primeminderis designd as a very simple static HTML one page application
 where users can sign up for a mailing list as well as a section for how users
 can support the application financially. It also includes
-legal/privacy policy content. This site uses Bootstrap 4, and is 100%
+legal/privacy policy pages. This site uses Bootstrap 4, and is 100%
 mobile device compliant. Amazon affiliate links, mailing list URLS, and Amazon
 OneLink items have been removed and will need to be replaced if you want to
 use this application. The HTML uses a heavily modified and stripped down
@@ -35,3 +35,8 @@ This project is a simple static site so set up is easy. You can either clone
 it and set things up yourself, or take a look at my
 [primeminder-salt](https://github.com/gravyboat/primeminder-salt) which uses
 SaltStack to configure and deploy everything.
+
+If you just want to check the application out, clone the repo and then from
+main project directory run `python -m SimpleHTTPServer 8000` and the
+application should be available on `localhost:8000` depending on your local
+configuration.
